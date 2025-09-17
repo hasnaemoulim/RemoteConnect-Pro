@@ -33,8 +33,8 @@ import MailOutlineIcon from '@mui/icons-material/MailOutline';
 // Mets ici le bon chemin vers ton image hero
 import remoteHero from '../assets/rem3.jpg';
 import contactIllustration from '../assets/contact.jpg';
-import safiaPhoto from '../assets/safia.png';
-import hasnaePhoto from '../assets/hasnae.jpg';
+import safiaPhoto from '../assets/hafsa.jpg';
+import hasnaePhoto from '../assets/hafsa.jpg';
 import hafsaPhoto from '../assets/hafsa.jpg';
 
 
