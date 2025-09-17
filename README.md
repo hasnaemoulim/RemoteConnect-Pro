@@ -75,9 +75,5 @@ Elle permet de partager un écran en temps réel, d’interagir à distance et d
 
 ---
 
-## 👨‍💻 Auteurs
-- MERZOUK Hafsa  
-- MOULIM Hasnae  
-- ZITOUNI Safia  
 
-Encadré par : **Mr. Darouichi Aziz**  
+
