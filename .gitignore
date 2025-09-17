@@ -1,0 +1,25 @@
+# =========================
+# Backend (Java - IntelliJ)
+# =========================
+Remote-Desktop-App_backend/.idea/
+Remote-Desktop-App_backend/*.iml
+Remote-Desktop-App_backend/out/
+Remote-Desktop-App_backend/target/
+Remote-Desktop-App_backend/build/
+
+# =========================
+# Frontend (React - Node)
+# =========================
+Remote-Desktop-App_frontend/node_modules/
+Remote-Desktop-App_frontend/build/
+Remote-Desktop-App_frontend/.env.local
+Remote-Desktop-App_frontend/.env.development.local
+Remote-Desktop-App_frontend/.env.test.local
+Remote-Desktop-App_frontend/.env.production.local
+
+# =========================
+# Logs / OS
+# =========================
+*.log
+.DS_Store
+Thumbs.db
